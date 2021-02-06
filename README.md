@@ -10,5 +10,7 @@ Here I get to know terminal and GIT basics
 Sample website with plenty of files for demos
 
 ## Deployment
+Clone as a usual project
 
 ## How to contribute 
+Be consistent in what you do before thinking about it.
