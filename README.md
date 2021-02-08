@@ -14,3 +14,6 @@ Clone as a usual project
 
 ## How to contribute 
 Be consistent in what you do before thinking about it.
+
+## Copyrigt
+2021 git training
