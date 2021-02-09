@@ -15,5 +15,7 @@ Clone as a usual project
 ## How to contribute 
 Be consistent in what you do before thinking about it.
 
+Please fork this repository and then issue pull request for review
+
 ## Copyrigt
 2021 git training
